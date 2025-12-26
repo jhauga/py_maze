@@ -30,6 +30,12 @@ py_maze
 python py_maze.py
 ```
 
+or set custom width and height for the maze like:
+
+```bash
+python py_maze.py -w 20 -h 30
+```
+
 ## How to Play
 
 1. Run `py_maze` from your terminal
